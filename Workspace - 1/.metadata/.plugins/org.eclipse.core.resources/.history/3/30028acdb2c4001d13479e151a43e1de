@@ -1,0 +1,17 @@
+package com.example.spring_first;
+
+import com.example.spring_first.game.GameRunner;
+import com.example.spring_first.game.MarioGame;
+
+public class AppGamingBasicJava {
+
+	public static void main(String[] args) {
+		 var marioGame = new MarioGame();
+		 var gameRunner = new GameRunner(marioGame);
+		 gameRunner.run();
+		 
+		
+
+	}
+
+}

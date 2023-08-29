@@ -1,0 +1,12 @@
+package com.example.spring_first.game;
+
+public class GameRunner {
+   MarioGame marioGame;
+    
+   
+   public GameRunner(MarioGame marioGame) {
+	   this.marioGame = marioGame;
+   }
+   
+ 
+}

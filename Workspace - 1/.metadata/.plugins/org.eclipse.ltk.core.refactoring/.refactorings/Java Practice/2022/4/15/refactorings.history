@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;BubbleSort.sort(...)&apos; to &apos;bubbleSort&apos;&#x0D;&#x0A;- Original project: &apos;Java Practice&apos;&#x0D;&#x0A;- Original element: &apos;BubbleSort.sort(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;BubbleSort.bubbleSort(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;sort&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{BubbleSort.java[BubbleSort~sort~\[I" name="bubbleSort" references="true" stamp="1649400454534" version="1.0"/>
+</session>
